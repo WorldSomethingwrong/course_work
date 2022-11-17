@@ -5,7 +5,7 @@ import time
 from tqdm import tqdm
 import os
 
-vk_token = 'vk1.a.4mxrzevX7uTfrCgODJM17flCWHGHl6POeV-g4fDktlfLEdI72MHgCQVn47hUZ_FSjNN82BInQWnKloazWiM3FgWqiK7YTgcZVCWS_owIeQv60m4ZoPl84_-mkaLwvtncuFthMQih7U-ClK_bo9E5f_yZ40_LSqmADI5KWzDufGIqIrKnPTKY9QvYgjhU4Zs18TwSNcl7p38XflvEdI5zzg'
+vk_token = ''
 VK_URL = 'https://api.vk.com/method/photos.get'
 YANDEX_URL = 'https://cloud-api.yandex.net:443'
 vk_id = input('Введите id пользователя VK: ')
